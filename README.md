@@ -3,7 +3,7 @@ A spring boot + react application that keep track of expenses performed by users
 
 Backend using spring boot and frontend using react.js
 
-Backend Technologies: spring boot, REST APIs with Http methods of GET,POST,DELETE, and UPDATE, and connected to H2-In-Memmory Database.
+Backend Technologies: spring boot, REST APIs with Http methods of GET,POST,DELETE, and UPDATE, Spring Data JPA that connected to H2-In-Memmory Database.
 
 Frontend Technologies: React-bootstrap.js
 
